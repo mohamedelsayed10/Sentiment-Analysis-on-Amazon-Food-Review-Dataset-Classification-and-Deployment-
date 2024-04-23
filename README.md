@@ -1,7 +1,7 @@
 # NLP Sentiment Analysis on Amazon Food Review Dataset(Classification and Deployment)
 
 
-![NLP Sentiment Analysis](<img width="769" alt="deployment picture" src="https://github.com/mohamedelsayed10/Sentiment-Analysis-on-Amazon-Food-Review-Dataset-Classification-and-Deployment-/assets/87568101/751651f0-e9c8-45aa-8e10-156f14f7a65b">)
+![NLP Sentiment Analysis](<img width="769" alt="deployment picture" src="https://github.com/mohamedelsayed10/Sentiment-Analysis-on-Amazon-Food-Review-Dataset-Classification-andDeployment-/assets/87568101/751651f0-e9c8-45aa-8e10-156f14f7a65b">)
 
 ## Overview
 
